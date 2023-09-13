@@ -1,0 +1,97 @@
+10:38:01.262 [main] INFO  TestCases.Register_Account_Test - *********** Test Registation Starting**************
+10:38:01.282 [main] INFO  TestCases.Register_Account_Test - *********** Open Register Page**************
+10:38:01.897 [main] INFO  TestCases.Register_Account_Test - *********** Enter First Name **************
+10:38:01.952 [main] INFO  TestCases.Register_Account_Test - *********** Enter Last Name **************
+10:38:02.011 [main] INFO  TestCases.Register_Account_Test - *********** Enter Email **************
+10:38:02.062 [main] INFO  TestCases.Register_Account_Test - *********** Enter Password **************
+10:38:02.082 [main] INFO  TestCases.Register_Account_Test - *********** Accept Policy **************
+20:27:46.114 [main] INFO  TestCases.Register_Account_Test - *********** Test Registation Starting**************
+20:27:46.129 [main] INFO  TestCases.Register_Account_Test - *********** Open Register Page**************
+20:27:46.949 [main] INFO  TestCases.Register_Account_Test - *********** Enter First Name **************
+20:27:47.016 [main] INFO  TestCases.Register_Account_Test - *********** Enter Last Name **************
+20:27:47.082 [main] INFO  TestCases.Register_Account_Test - *********** Enter Email **************
+20:27:47.133 [main] INFO  TestCases.Register_Account_Test - *********** Enter Password **************
+20:27:47.151 [main] INFO  TestCases.Register_Account_Test - *********** Accept Policy **************
+20:32:32.180 [main] INFO  TestCases.Register_Account_Test - *********** Test Registation Starting**************
+20:32:32.208 [main] INFO  TestCases.Register_Account_Test - *********** Open Register Page**************
+20:32:33.072 [main] INFO  TestCases.Register_Account_Test - *********** Enter First Name **************
+20:32:33.130 [main] INFO  TestCases.Register_Account_Test - *********** Enter Last Name **************
+20:32:33.186 [main] INFO  TestCases.Register_Account_Test - *********** Enter Email **************
+20:32:33.236 [main] INFO  TestCases.Register_Account_Test - *********** Enter Password **************
+20:32:33.254 [main] INFO  TestCases.Register_Account_Test - *********** Accept Policy **************
+20:38:43.824 [main] INFO  TestCases.Register_Account_Test - *********** Test Registation Starting**************
+20:38:43.840 [main] INFO  TestCases.Register_Account_Test - *********** Open Register Page**************
+20:38:44.684 [main] INFO  TestCases.Register_Account_Test - *********** Enter First Name **************
+20:38:44.738 [main] INFO  TestCases.Register_Account_Test - *********** Enter Last Name **************
+20:38:44.797 [main] INFO  TestCases.Register_Account_Test - *********** Enter Email **************
+20:38:44.848 [main] INFO  TestCases.Register_Account_Test - *********** Enter Password **************
+20:38:44.868 [main] INFO  TestCases.Register_Account_Test - *********** Accept Policy **************
+20:38:48.742 [main] INFO  TestCases.Register_Account_Test - *********** Test Registation Starting**************
+20:38:48.742 [main] INFO  TestCases.Register_Account_Test - *********** Open Register Page**************
+20:38:49.372 [main] INFO  TestCases.Register_Account_Test - *********** Enter First Name **************
+20:38:49.433 [main] INFO  TestCases.Register_Account_Test - *********** Enter Last Name **************
+20:38:49.500 [main] INFO  TestCases.Register_Account_Test - *********** Enter Email **************
+20:38:49.569 [main] INFO  TestCases.Register_Account_Test - *********** Enter Password **************
+20:38:49.591 [main] INFO  TestCases.Register_Account_Test - *********** Accept Policy **************
+21:02:36.071 [main] INFO  TestCases.Register_Account_Test - *********** Test Registation Starting**************
+21:02:36.113 [main] INFO  TestCases.Register_Account_Test - *********** Open Register Page**************
+21:02:37.310 [main] INFO  TestCases.Register_Account_Test - *********** Enter First Name **************
+21:02:37.367 [main] INFO  TestCases.Register_Account_Test - *********** Enter Last Name **************
+21:02:37.426 [main] INFO  TestCases.Register_Account_Test - *********** Enter Email **************
+21:02:37.478 [main] INFO  TestCases.Register_Account_Test - *********** Enter Password **************
+21:02:37.497 [main] INFO  TestCases.Register_Account_Test - *********** Accept Policy **************
+21:09:45.526 [main] INFO  TestCases.Register_Account_Test - *********** Test Registation Starting**************
+21:09:45.549 [main] INFO  TestCases.Register_Account_Test - *********** Open Register Page**************
+21:09:46.310 [main] INFO  TestCases.Register_Account_Test - *********** Enter First Name **************
+21:09:46.376 [main] INFO  TestCases.Register_Account_Test - *********** Enter Last Name **************
+21:09:46.439 [main] INFO  TestCases.Register_Account_Test - *********** Enter Email **************
+21:09:46.487 [main] INFO  TestCases.Register_Account_Test - *********** Enter Password **************
+21:09:46.507 [main] INFO  TestCases.Register_Account_Test - *********** Accept Policy **************
+21:10:44.033 [main] INFO  TestCases.Register_Account_Test - *********** Test Registation Starting**************
+21:10:44.049 [main] INFO  TestCases.Register_Account_Test - *********** Open Register Page**************
+21:10:44.739 [main] INFO  TestCases.Register_Account_Test - *********** Enter First Name **************
+21:10:44.811 [main] INFO  TestCases.Register_Account_Test - *********** Enter Last Name **************
+21:10:44.873 [main] INFO  TestCases.Register_Account_Test - *********** Enter Email **************
+21:10:44.922 [main] INFO  TestCases.Register_Account_Test - *********** Enter Password **************
+21:10:44.939 [main] INFO  TestCases.Register_Account_Test - *********** Accept Policy **************
+21:11:59.510 [main] INFO  TestCases.Register_Account_Test - *********** Test Registation Starting**************
+21:11:59.524 [main] INFO  TestCases.Register_Account_Test - *********** Open Register Page**************
+21:12:00.383 [main] INFO  TestCases.Register_Account_Test - *********** Enter First Name **************
+21:12:00.433 [main] INFO  TestCases.Register_Account_Test - *********** Enter Last Name **************
+21:12:00.491 [main] INFO  TestCases.Register_Account_Test - *********** Enter Email **************
+21:12:00.542 [main] INFO  TestCases.Register_Account_Test - *********** Enter Password **************
+21:12:00.562 [main] INFO  TestCases.Register_Account_Test - *********** Accept Policy **************
+21:13:08.675 [main] INFO  TestCases.Register_Account_Test - *********** Test Registation Starting**************
+21:13:08.689 [main] INFO  TestCases.Register_Account_Test - *********** Open Register Page**************
+21:13:09.873 [main] INFO  TestCases.Register_Account_Test - *********** Enter First Name **************
+21:13:09.932 [main] INFO  TestCases.Register_Account_Test - *********** Enter Last Name **************
+21:13:09.932 [main] INFO  TestCases.Register_Account_Test - *********** Enter Email **************
+21:13:09.990 [main] INFO  TestCases.Register_Account_Test - *********** Enter Password **************
+21:13:10.007 [main] INFO  TestCases.Register_Account_Test - *********** Accept Policy **************
+21:14:10.991 [main] INFO  TestCases.Register_Account_Test - *********** Test Registation Starting**************
+21:14:11.009 [main] INFO  TestCases.Register_Account_Test - *********** Open Register Page**************
+21:14:12.193 [main] INFO  TestCases.Register_Account_Test - *********** Enter First Name **************
+21:14:12.250 [main] INFO  TestCases.Register_Account_Test - *********** Enter Last Name **************
+21:16:46.482 [main] INFO  TestCases.Register_Account_Test - *********** Test Registation Starting**************
+21:16:46.495 [main] INFO  TestCases.Register_Account_Test - *********** Open Register Page**************
+21:16:47.665 [main] INFO  TestCases.Register_Account_Test - *********** Enter First Name **************
+21:16:47.719 [main] INFO  TestCases.Register_Account_Test - *********** Enter Last Name **************
+21:18:22.331 [main] INFO  TestCases.Register_Account_Test - *********** Test Registation Starting**************
+21:18:22.344 [main] INFO  TestCases.Register_Account_Test - *********** Open Register Page**************
+21:18:23.191 [main] INFO  TestCases.Register_Account_Test - *********** Enter First Name **************
+21:18:23.243 [main] INFO  TestCases.Register_Account_Test - *********** Enter Last Name **************
+09:45:59.965 [main] INFO  TestCases.Login_OpenCart_Test - *********** Test login Application Feature**************
+09:46:11.135 [main] INFO  TestCases.Login_OpenCart_Test - *********** Test login Application Feature**************
+09:46:21.769 [main] INFO  TestCases.Login_OpenCart_Test - *********** Test login Application Feature**************
+09:46:32.386 [main] INFO  TestCases.Login_OpenCart_Test - *********** Test login Application Feature**************
+09:46:43.023 [main] INFO  TestCases.Login_OpenCart_Test - *********** Test login Application Feature**************
+11:07:54.343 [main] INFO  TestCases.Login_OpenCart_Test - *********** Test login Application Feature**************
+11:08:05.132 [main] INFO  TestCases.Login_OpenCart_Test - *********** Test login Application Feature**************
+11:08:15.705 [main] INFO  TestCases.Login_OpenCart_Test - *********** Test login Application Feature**************
+11:08:26.917 [main] INFO  TestCases.Login_OpenCart_Test - *********** Test login Application Feature**************
+11:08:37.548 [main] INFO  TestCases.Login_OpenCart_Test - *********** Test login Application Feature**************
+11:11:10.711 [main] INFO  TestCases.Login_OpenCart_Test - *********** Test login Application Feature**************
+11:11:21.846 [main] INFO  TestCases.Login_OpenCart_Test - *********** Test login Application Feature**************
+11:11:32.561 [main] INFO  TestCases.Login_OpenCart_Test - *********** Test login Application Feature**************
+11:11:43.659 [main] INFO  TestCases.Login_OpenCart_Test - *********** Test login Application Feature**************
+11:11:54.773 [main] INFO  TestCases.Login_OpenCart_Test - *********** Test login Application Feature**************
